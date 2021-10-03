@@ -1,7 +1,7 @@
 # Csgo-MutihackV4
 A CSGO cheat made in python NEW AND IMPROVED
 
-# Csgo-MutihackV3
+# Csgo-MutihackV4
 A simple Csgo multi hack made within 300 lines of code
 
 
